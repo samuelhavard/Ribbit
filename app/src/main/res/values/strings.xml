@@ -10,4 +10,8 @@
     <string name="sign_up_text">Sign Up!</string>
     <string name="title_activity_signup">SignupActivity</string>
     <string name="email_string">E-Mail Address</string>
+    <string name="signup_error_title">Oops!</string>
+    <string name="signup_error_messge">Pleas make sure you enter a username, password,
+        and email address</string>
+
 </resources>
